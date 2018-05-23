@@ -1,0 +1,37 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomPicker.iOS", "CustomPicker.iOS\CustomPicker.iOS.csproj", "{4F60CDB4-2E91-4F2F-B228-2E8D03EB77D1}"
+EndProject
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "CustomPicker", "CustomPicker\CustomPicker.shproj", "{35076629-9D38-48D1-9F95-6EC730BAF0BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+		Release|iPhone = Release|iPhone
+		Ad-Hoc|iPhone = Ad-Hoc|iPhone
+		AppStore|iPhone = AppStore|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4F60CDB4-2E91-4F2F-B228-2E8D03EB77D1}.Debug|Any CPU.ActiveCfg = Debug|iPhoneSimulator
+		{4F60CDB4-2E91-4F2F-B228-2E8D03EB77D1}.Debug|Any CPU.Build.0 = Debug|iPhoneSimulator
+		{4F60CDB4-2E91-4F2F-B228-2E8D03EB77D1}.Release|Any CPU.ActiveCfg = Release|iPhoneSimulator
+		{4F60CDB4-2E91-4F2F-B228-2E8D03EB77D1}.Release|Any CPU.Build.0 = Release|iPhoneSimulator
+		{4F60CDB4-2E91-4F2F-B228-2E8D03EB77D1}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{4F60CDB4-2E91-4F2F-B228-2E8D03EB77D1}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{4F60CDB4-2E91-4F2F-B228-2E8D03EB77D1}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{4F60CDB4-2E91-4F2F-B228-2E8D03EB77D1}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+		{4F60CDB4-2E91-4F2F-B228-2E8D03EB77D1}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{4F60CDB4-2E91-4F2F-B228-2E8D03EB77D1}.Debug|iPhone.Build.0 = Debug|iPhone
+		{4F60CDB4-2E91-4F2F-B228-2E8D03EB77D1}.Release|iPhone.ActiveCfg = Release|iPhone
+		{4F60CDB4-2E91-4F2F-B228-2E8D03EB77D1}.Release|iPhone.Build.0 = Release|iPhone
+		{4F60CDB4-2E91-4F2F-B228-2E8D03EB77D1}.Ad-Hoc|iPhone.ActiveCfg = Ad-Hoc|iPhone
+		{4F60CDB4-2E91-4F2F-B228-2E8D03EB77D1}.Ad-Hoc|iPhone.Build.0 = Ad-Hoc|iPhone
+		{4F60CDB4-2E91-4F2F-B228-2E8D03EB77D1}.AppStore|iPhone.ActiveCfg = AppStore|iPhone
+		{4F60CDB4-2E91-4F2F-B228-2E8D03EB77D1}.AppStore|iPhone.Build.0 = AppStore|iPhone
+	EndGlobalSection
+EndGlobal
